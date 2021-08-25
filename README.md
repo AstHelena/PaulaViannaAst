@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Paula! A Brazilian designer working in the L&D industry and helping people learn better through amazing learning experiences! 
+- 👋 Hi, I’m Paula! A Brazilian designer who works in the L&D industry to help people learn better through amazing learning experiences! 
 - 👀 I’m interested in design, music and games. 
 - 🌱 I’m currently learning about design systems and gamification. 
 
