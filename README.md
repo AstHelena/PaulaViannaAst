@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Paula! A Brazilian designer who works in the L&D industry to help people learn better through amazing learning experiences! 
-- 👀 I’m interested in design, music and games. 
-- 🌱 I’m currently learning about design systems and gamification. 
+- 👋 Hi, I’m Paula! A Brazilian Product designer who works in the L&D industry for over 10 years and I am here at Github to work next to the dev and build products to help people learn better through amazing learning experiences!
+- 🌱 Currently learning about design systems and gamification. 
 
 
 <!---
